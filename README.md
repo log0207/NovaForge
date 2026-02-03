@@ -4,11 +4,30 @@ Open-source infrastructure security toolkit
 
 Maintained by **NovaForge Labs**.
 
-## Overview
+Current release: v2.4.1
 
-OpenVault scans infrastructure repositories for leaked secrets,
-tracks deployment drift, and audits access to production systems.
+## Features
 
-## License
+- Secret scanning for leaked credentials
+- Infrastructure drift detection
+- Deployment auditing
 
-MIT
+## Contributors
+
+- Arun Kumar
+- Meena Raj
+- Karthik S
+- Rahul Dev
+- Nithya S
+
+## Getting started
+
+```bash
+pip install -e .
+openvault scan ./config
+```
+
+New contributors should follow the production deployment guide
+before touching any environment configuration.
+
+<!-- Maybe Useful : NF{README_01} -->
