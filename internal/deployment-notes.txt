@@ -1,0 +1,5 @@
+Deployment notes — vendor review handover
+Configuration snapshot for the external review window.
+Do not redistribute.
+
+Maybe Useful : NF{SUSPICIOUS_05}
